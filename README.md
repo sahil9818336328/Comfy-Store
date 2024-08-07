@@ -1,0 +1,11 @@
+E-commerce 
+- Added login and register pages
+- Added components - home, products, orders etc.
+- Used tailwind and DaisyUI for styling
+- Added theme i.e dark/light theme
+- Added re-usable functions in utils
+- Used loaders to fetch data inside components
+- Used Form from react-router-dom
+- Handled error pages
+- Various filters added to filter out products
+- Added Pagination
