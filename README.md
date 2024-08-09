@@ -9,3 +9,5 @@ E-commerce
 - Handled error pages
 - Various filters added to filter out products
 - Added Pagination
+- Redux toolkit setup
+- Created cart slice
